@@ -56,4 +56,3 @@ for university in universities:
     print(f"ID: {university['id']}, Name: {university['name']}, Location: {university['location']}, Established Year: {university['established_year']}, Type: {university['type']}, Website: {university['website']}")
 
 
-    
