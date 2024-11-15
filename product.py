@@ -1,3 +1,4 @@
+
 product_object1 = {
     "name": "Laptop",
     "category": "Electronics",
