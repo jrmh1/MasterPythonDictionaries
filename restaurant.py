@@ -1,3 +1,4 @@
+
 restaurant_object1 = {
     "id": 1,
     "name": "Vikings Luxury Buffet",
